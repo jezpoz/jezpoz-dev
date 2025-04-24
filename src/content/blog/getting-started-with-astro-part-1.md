@@ -1,5 +1,5 @@
 ---
-title: 'Getting started with Astro - Part 1'
+title: 'Getting started with Astro - Routing'
 description: 'Getting started with Astro is simple!'
 pubDate: 'April 19 2025'
 heroImage: '/images/blog/getting-started-with-astro.jpg'
@@ -54,6 +54,6 @@ const { Content } = await render(post);
 ---
 ```
 
-To understand where this `getCollection`-function is coming from, we need to move our attention to the `content.config.ts` and `content`-folder. I'll cover that in another blog post, which is probably going to be on my blog in a couple of days. I just need to get this blog finished before I start writing seriously.
+To understand where this `getCollection`-function is coming from, we need to move our attention to the `content.config.ts` and `content`-folder. I'll cover that in <a href="https://jezpoz.dev/blog/getting-started-with-astro-part-2">another blog post</a>, which is probably going to be on my blog in a couple of days. I just need to get this blog finished before I start writing seriously.
 
 Stay tuned! And thanks for reading so far!
